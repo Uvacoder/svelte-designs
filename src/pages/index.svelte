@@ -170,7 +170,7 @@ import { metatags } from "@roxi/routify"
 
 metatags.title = "Home | Svelteception"
 metatags.description =
-  "Website to keep all of the result of a small challenge that I did with my friend."
+  "Website to keep the result of a small challenge that I did with my friend."
 
 let designs = [
   {
