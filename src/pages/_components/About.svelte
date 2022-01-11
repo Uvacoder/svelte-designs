@@ -43,31 +43,6 @@
       are doing this amazing challenge, where each one of us try to implement three
       designs each week into code. You can also submit your design to us!
       <br />
-
-      Why is it called
-      <span class="highlight">Three of &lbrace;Some, Every&rbrace;thing</span>?
-      It came up by accident actually. When I created the project repo, I've
-      named it Three Of Something, since we are implementing three designs, then
-      at the same time my friend creates another repo and called Three Of
-      Everything. So we agreed why not just combine those :D We end up with
-      <span class="highlight">Three of &lbrace;Some,Every&rbrace;thing</span>.
-      (and yes, that's BASH expansion braces)
-      <br />
-      <br />
-      <strong>UPDATE:</strong>
-      One of my friend joined, and now it became
-      <span class="highlight"
-        >Three of &lbrace;Some, Every, No&rbrace;thing</span
-      >
-      <br />
-      <strong>ANOTHER UPDATE:</strong>
-      I didn't have much time now so I just decided to implement one design each
-      week.
-      <br />
-      <strong>YET ANOTHER UPDATE:</strong>
-      I changed the name to
-      <strong>Svelteception</strong>
-      because apparently Three Of Something is an Australian brand :p
     </p>
   </div>
 </section>
